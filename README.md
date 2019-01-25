@@ -1,2 +1,6 @@
-# maximum-likelihood-and-regression
-code from a lession about maximum likelihood, linear and non-linear regression, neural networks and LSTM
+# Maximum Likelihood and Regression
+
+* Explains maximum likelihood procedure for the general regression problem
+* Dependent/independent variables
+* Neural networks as universal regression function approximator
+* Why use LSTM?
